@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IanXBT
-- 👀 I’m interested in quantitative finance
-- 🌱 I’m currently learning algorithmic trading and quantitative analysis
+- 👋 hello, I’m Ian
+
+I am interested in machine learning. 
 
 twitter: ian_xox
-email: ianlogan55@gmail.com
+email: il146@georgetown.edu
 
